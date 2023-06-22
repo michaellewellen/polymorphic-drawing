@@ -1,0 +1,12 @@
+C:\Users\michael.lewellen\polymorphic-drawing\Poly\obj\Debug\net7.0\Poly.csproj.AssemblyReference.cache
+C:\Users\michael.lewellen\polymorphic-drawing\Poly\obj\Debug\net7.0\Poly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michael.lewellen\polymorphic-drawing\Poly\obj\Debug\net7.0\Poly.AssemblyInfoInputs.cache
+C:\Users\michael.lewellen\polymorphic-drawing\Poly\obj\Debug\net7.0\Poly.AssemblyInfo.cs
+C:\Users\michael.lewellen\polymorphic-drawing\Poly\obj\Debug\net7.0\Poly.csproj.CoreCompileInputs.cache
+C:\Users\michael.lewellen\polymorphic-drawing\Poly\bin\Debug\net7.0\Poly.deps.json
+C:\Users\michael.lewellen\polymorphic-drawing\Poly\bin\Debug\net7.0\Poly.dll
+C:\Users\michael.lewellen\polymorphic-drawing\Poly\bin\Debug\net7.0\Poly.pdb
+C:\Users\michael.lewellen\polymorphic-drawing\Poly\obj\Debug\net7.0\Poly.dll
+C:\Users\michael.lewellen\polymorphic-drawing\Poly\obj\Debug\net7.0\refint\Poly.dll
+C:\Users\michael.lewellen\polymorphic-drawing\Poly\obj\Debug\net7.0\Poly.pdb
+C:\Users\michael.lewellen\polymorphic-drawing\Poly\obj\Debug\net7.0\ref\Poly.dll
